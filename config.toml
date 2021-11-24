@@ -1,4 +1,4 @@
-baseURL = "https://ChristinaLast.github.io/a-fully-on-chain-reading-group"
+baseURL = "https://christinalast.com/a-fully-on-chain-reading-group"
 title = 'A fully on-chain reading group'
 theme = 'book'
 
@@ -18,12 +18,12 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 # After ToC
 [[menu.after]]
   name = 'Readings'
-  url = 'https://ChristinaLast.github.io/a-fully-on-chain-reading-group/readings'
+  url = 'https://christinalast.com/a-fully-on-chain-reading-group/readings'
   weight = 10
 
 [[menu.after]]
   name = 'Discussions'
-  url = 'https://ChristinaLast.github.io/a-fully-on-chain-reading-group/discussions'
+  url = 'https://christinalast.com/a-fully-on-chain-reading-group/discussions'
   weight = 20
 
 

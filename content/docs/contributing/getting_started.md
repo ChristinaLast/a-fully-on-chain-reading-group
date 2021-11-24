@@ -55,7 +55,7 @@ hugo server --minify
 In the output of this command will be a line similar to
 
 ```bash
-Web Server is available at http://localhost:1313/a-fully-on-chain-reading-group/ (bind address 127.0.0.1)
+Web Server is available at https://localhost:1313/a-fully-on-chain-reading-group/ (bind address 127.0.0.1)
 ```
 
 which contains the URL of the locally served site. Navigate to this address in

@@ -125,7 +125,7 @@ jobs:
 
       - name: Run html-proofer
         # swap URLs
-        # - adjust for internal links with fqdn (https://ChristinaLast.github.io/a-fully-on-chain-reading-group)
+        # - adjust for internal links with fqdn (http://christinaLast.github.io/a-fully-on-chain-reading-group)
         # - Adjust edit and tree paths on GitHub to current branch (*/edit/main, */tree/main)
         # Only check external links
         run: |

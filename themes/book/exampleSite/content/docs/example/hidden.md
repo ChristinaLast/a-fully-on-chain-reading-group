@@ -10,7 +10,7 @@ bookHidden: true
 
 Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus,
 frementes, qui in vel. Hippotades Peleus [pennas
-conscia](http://gratia.net/tot-qua.php) cuiquam Caeneus quas.
+conscia](https://gratia.net/tot-qua.php) cuiquam Caeneus quas.
 
 - Pater demittere evincitque reddunt
 - Maxime adhuc pressit huc Danaas quid freta
@@ -21,7 +21,7 @@ conscia](http://gratia.net/tot-qua.php) cuiquam Caeneus quas.
 ## Cum honorum Latona
 
 O fallor [in sustinui
-iussorum](http://www.spectataharundine.org/aquas-relinquit.html) equidem.
+iussorum](https://www.spectataharundine.org/aquas-relinquit.html) equidem.
 Nymphae operi oris alii fronde parens dumque, in auro ait mox ingenti proxima
 iamdudum maius?
 

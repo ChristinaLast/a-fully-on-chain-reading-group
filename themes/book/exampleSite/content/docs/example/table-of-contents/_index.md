@@ -14,10 +14,10 @@ suo quisque linguae medentes fixo: tum petis.
 ## Rapit vocant si hunc siste adspice
 
 Ora precari Patraeque Neptunia, dixit Danae [Cithaeron
-armaque](http://mersis-an.org/litoristum) maxima in **nati Coniugis** templis
+armaque](https://mersis-an.org/litoristum) maxima in **nati Coniugis** templis
 fluidove. Effugit usus nec ingreditur agmen *ac manus* conlato. Nullis vagis
 nequiquam vultibus aliquos altera *suum venis* teneas fretum. Armos [remotis
-hoc](http://tutum.io/me) sine ferrea iuncta quam!
+hoc](https://tutum.io/me) sine ferrea iuncta quam!
 
 ## Locus fuit caecis
 
@@ -80,6 +80,6 @@ regisque vobis cursuque, opus venit quam vulnera. Et maiora necemque, lege modo;
 gestanda nitidi, vero? Dum ne pectoraque testantur.
 
 Venasque repulsa Samos qui, exspectatum eram animosque hinc, [aut
-manes](http://www.creveratnon.net/apricaaetheriis), Assyrii. Cupiens auctoribus
+manes](https://www.creveratnon.net/apricaaetheriis), Assyrii. Cupiens auctoribus
 pariter rubet, profana magni super nocens. Vos ius sibilat inpar turba visae
 iusto! Sedes ante dum superest **extrema**.

@@ -1,4 +1,4 @@
-baseURL = "https://christinalast.com/a-fully-on-chain-reading-group"
+baseURL = "http://christinalast.com/a-fully-on-chain-reading-group/"
 title = 'A fully on-chain reading group'
 theme = 'book'
 
@@ -18,12 +18,12 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 # After ToC
 [[menu.after]]
   name = 'Readings'
-  url = 'https://christinalast.com/a-fully-on-chain-reading-group/readings'
+  url = 'http://christinalast.com/a-fully-on-chain-reading-group/docs/readings/'
   weight = 10
 
 [[menu.after]]
   name = 'Discussions'
-  url = 'https://christinalast.com/a-fully-on-chain-reading-group/discussions'
+  url = 'http://christinalast.com/a-fully-on-chain-reading-group/docs/discussions'
   weight = 20
 
 
@@ -44,7 +44,7 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo = 'https://github.com/ChristinaLast/a-fully-on-chain-reading-group'
+  BookRepo = 'repo '
 
   # Path to commits in repository
   # URL is constructed as <BookRepo>/<BookCommitPath>/<commit-hash>

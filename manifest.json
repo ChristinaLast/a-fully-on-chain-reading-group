@@ -1,0 +1,15 @@
+{
+  "name": "A fully on-chain reading group",
+  "short_name": "A fully on-chain reading group",
+  "start_url": "/a-fully-on-chain-reading-group/",
+  "scope": "/a-fully-on-chain-reading-group/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/a-fully-on-chain-reading-group/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}

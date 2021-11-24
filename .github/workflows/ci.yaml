@@ -125,7 +125,7 @@ jobs:
 
       - name: Run html-proofer
         # swap URLs
-        # - adjust for internal links with fqdn (https://alan-turing-institute.github.io/REG-handbook)
+        # - adjust for internal links with fqdn (https://ChristinaLast.github.io/REG-handbook)
         # - Adjust edit and tree paths on GitHub to current branch (*/edit/main, */tree/main)
         # Only check external links
         run: |
@@ -135,4 +135,4 @@ jobs:
           --check-img-http \
           --enforce-https \
           --external-only \
-          --url-swap "^^https\://alan-turing-institute.github.io/REG-handbook/:/,/edit/main:/edit/$(git branch --show-current),/tree/main:/tree/$(git branch --show-current)" \
+          --url-swap "^^https\://ChristinaLast.github.io/REG-handbook/:/,/edit/main:/edit/$(git branch --show-current),/tree/main:/tree/$(git branch --show-current)" \

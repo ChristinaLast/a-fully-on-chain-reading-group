@@ -36,7 +36,7 @@ The linting style used is included in the root of the repository,
 Clone the repository with
 
 ```bash
-git clone --recurse-submodules git@github.com:alan-turing-institute/REG-handbook.git
+git clone --recurse-submodules git@github.com:ChristinaLast/REG-handbook.git
 cd REG-handbook
 ```
 

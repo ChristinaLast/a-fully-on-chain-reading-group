@@ -20,7 +20,7 @@ contributing. The handbook uses both issues and discussions on GitHub.
 ## Discussions
 
 [The handbook
-Dicussions](https://github.com/alan-turing-institute/REG-handbook/discussions)
+Dicussions](https://github.com/ChristinaLast/REG-handbook/discussions)
 are the best place for informal talk about the handbook.
 
 You should feel welcome to create a discussion on any relevant topic, without
@@ -38,7 +38,7 @@ Good examples of discussions are
 ## Issues
 
 [The issue
-tracker](https://github.com/alan-turing-institute/REG-handbook/issues) is best
+tracker](https://github.com/ChristinaLast/REG-handbook/issues) is best
 used for development work. This is because issues integrate well with GitHub
 development tools like projects, pull requests, assignments and so on.
 

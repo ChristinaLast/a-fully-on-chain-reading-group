@@ -85,7 +85,7 @@ jobs:
 
       - name: Run html-proofer
         # swap URLs
-        # - adjust for base URL (REG-handbook)
+        # - adjust for base URL (a-fully-on-chain-reading-group)
         # Ignore internal links to base URL
         # Only check internal links
         run: |
@@ -94,8 +94,8 @@ jobs:
           --check-html \
           --check-img-http \
           --disable-external \
-          --url-swap "^/REG-handbook/:/" \
-          --url-ignore '/REG-handbook'
+          --url-swap "^/a-fully-on-chain-reading-group/:/" \
+          --url-ignore '/a-fully-on-chain-reading-group'
 
   html-proofer-external-links:
     name: "HTML proofer external links"
@@ -125,7 +125,7 @@ jobs:
 
       - name: Run html-proofer
         # swap URLs
-        # - adjust for internal links with fqdn (https://ChristinaLast.github.io/REG-handbook)
+        # - adjust for internal links with fqdn (https://ChristinaLast.github.io/a-fully-on-chain-reading-group)
         # - Adjust edit and tree paths on GitHub to current branch (*/edit/main, */tree/main)
         # Only check external links
         run: |
@@ -135,4 +135,4 @@ jobs:
           --check-img-http \
           --enforce-https \
           --external-only \
-          --url-swap "^^https\://ChristinaLast.github.io/REG-handbook/:/,/edit/main:/edit/$(git branch --show-current),/tree/main:/tree/$(git branch --show-current)" \
+          --url-swap "^^https\://ChristinaLast.github.io/a-fully-on-chain-reading-group/:/,/edit/main:/edit/$(git branch --show-current),/tree/main:/tree/$(git branch --show-current)" \

@@ -36,8 +36,8 @@ The linting style used is included in the root of the repository,
 Clone the repository with
 
 ```bash
-git clone --recurse-submodules git@github.com:ChristinaLast/REG-handbook.git
-cd REG-handbook
+git clone --recurse-submodules git@github.com:ChristinaLast/a-fully-on-chain-reading-group.git
+cd a-fully-on-chain-reading-group
 ```
 
 The `--recurse-submodules` flag is important as the handbook's theme is included
@@ -55,7 +55,7 @@ hugo server --minify
 In the output of this command will be a line similar to
 
 ```bash
-Web Server is available at http://localhost:1313/REG-handbook/ (bind address 127.0.0.1)
+Web Server is available at http://localhost:1313/a-fully-on-chain-reading-group/ (bind address 127.0.0.1)
 ```
 
 which contains the URL of the locally served site. Navigate to this address in
